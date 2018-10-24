@@ -1,0 +1,25 @@
+E:\APD A1\Assignment1\socialNote\socialNote\bin\Debug\socialNote.dll
+E:\APD A1\Assignment1\socialNote\socialNote\bin\Debug\socialNote.pdb
+E:\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.csprojResolveAssemblyReference.cache
+E:\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.csproj.GenerateResource.Cache
+E:\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.csproj.CoreCompileInputs.cache
+E:\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.dll
+E:\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.pdb
+E:\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.Properties.Resources.resources
+E:\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.View.resources
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.Properties.Resources.resources
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.View.resources
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.csproj.GenerateResource.Cache
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.csproj.CoreCompileInputs.cache
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.dll
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.pdb
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\bin\Debug\socialNote.dll
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\bin\Debug\socialNote.pdb
+E:\Backup\APD A1\Assignment1\socialNote\socialNote\obj\Debug\socialNote.csprojResolveAssemblyReference.cache
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\socialNote\obj\Debug\socialNote.csprojResolveAssemblyReference.cache
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\socialNote\obj\Debug\socialNote.Properties.Resources.resources
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\socialNote\obj\Debug\socialNote.View.resources
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\socialNote\obj\Debug\socialNote.csproj.GenerateResource.Cache
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\socialNote\obj\Debug\socialNote.csproj.CoreCompileInputs.cache
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\socialNote\obj\Debug\socialNote.dll
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\socialNote\obj\Debug\socialNote.pdb

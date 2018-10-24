@@ -1,0 +1,24 @@
+E:\Backup\APD A1\Assignment1\socialNote\Test\bin\Debug\Test.exe.config
+E:\Backup\APD A1\Assignment1\socialNote\Test\bin\Debug\Test.exe
+E:\Backup\APD A1\Assignment1\socialNote\Test\bin\Debug\Test.pdb
+E:\Backup\APD A1\Assignment1\socialNote\Test\bin\Debug\socialNote.dll
+E:\Backup\APD A1\Assignment1\socialNote\Test\bin\Debug\socialNote.pdb
+E:\Backup\APD A1\Assignment1\socialNote\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Backup\APD A1\Assignment1\socialNote\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Backup\APD A1\Assignment1\socialNote\Test\obj\Debug\Test.Form1.resources
+E:\Backup\APD A1\Assignment1\socialNote\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Backup\APD A1\Assignment1\socialNote\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Backup\APD A1\Assignment1\socialNote\Test\obj\Debug\Test.exe
+E:\Backup\APD A1\Assignment1\socialNote\Test\obj\Debug\Test.pdb
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\bin\Debug\Test.exe.config
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\bin\Debug\Test.exe
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\bin\Debug\Test.pdb
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\bin\Debug\socialNote.dll
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\bin\Debug\socialNote.pdb
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\obj\Debug\Test.Properties.Resources.resources
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\obj\Debug\Test.Form1.resources
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\obj\Debug\Test.exe
+E:\APD\Assignment 1 A Zhou Zhou 1498456\socialNote\Test\obj\Debug\Test.pdb
